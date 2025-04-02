@@ -16,3 +16,5 @@ A simple **Pong game** built using **Python** and **Turtle**. This classic arcad
 - **Player 2 (Blue Paddle)**  
   - Move Up: `↑ (Up Arrow)`
   - Move Down: `↓ (Down Arrow)`
+
+![Game Example Photo](https://github.com/iamaymo/pong-game/blob/main/Screenshot%202025-04-02%20162529.png)
